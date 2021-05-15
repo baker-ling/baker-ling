@@ -2,7 +2,7 @@
 - 👀 I’m interested in soccer, human language, tea, coffee, Mexican food, and machine learning.
 - 🌱 I’m currently learning Android development with Java, C#, machine learning.
 - 💞️ I’m looking to collaborate on ... ?
-- 📫 How to reach me ... 
+- 📫 How to reach me ... brian.baker.bdb@gmail.com
 
 <!---
 baker-ling/baker-ling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
